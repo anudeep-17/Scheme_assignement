@@ -3,4 +3,8 @@ This contains the data from my scheme assignment [311 course] learning it new, i
 
 
 
-<img src="https://docs.racket-lang.org/images/pict_107.png" width="50px" />
+<br/>
+<br/>
+
+
+<img align="right" src="https://docs.racket-lang.org/images/pict_107.png" width="50px" />
