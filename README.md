@@ -1,4 +1,6 @@
 # Scheme_assignement
-this contains the data from my scheme assignment [311 course] learning it new, it have all the data from start 
+This contains the data from my scheme assignment [311 course] learning it new, it have all the data from start 
 
 
+
+<img src="https://docs.racket-lang.org/images/pict_107.png" width="50px" />
